@@ -42,7 +42,7 @@ class MyConstraintLayout extends StatelessWidget {
                   Expanded(
                     child: TextField(
                         decoration: InputDecoration(
-                      hintText: 'Enter email adress',
+                      hintText: 'Enter email address',
                     )),
                   )
                 ],
