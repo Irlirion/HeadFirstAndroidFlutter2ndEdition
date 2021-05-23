@@ -44912,7 +44912,7 @@ K.ut.prototype={
 M:function(a,b){return this.e.$2(b,this.f)}}
 F.xd.prototype={
 M:function(a,b){var s=null,r=X.a2x(s,C.hs)
-return new S.p3(new M.q8(new E.nA(C.Ec,new E.DM(s,s,1/0,56),s),C.kx,s),"Flutter Demo",r,s)}}
+return new S.p3(new M.q8(new E.nA(C.Ec,new E.DM(s,s,1/0,56),s),C.kx,s),"My First App",r,s)}}
 E.h6.prototype={
 gl:function(a){return this.b},
 i:function(a,b){if(b>=this.b)throw H.b(P.b9(b,this,null,null,null))
