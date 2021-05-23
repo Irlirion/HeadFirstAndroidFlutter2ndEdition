@@ -21,14 +21,9 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class DuckPage extends StatefulWidget {
+class DuckPage extends StatelessWidget {
   const DuckPage({Key? key}) : super(key: key);
 
-  @override
-  State<DuckPage> createState() => _DuckPageState();
-}
-
-class _DuckPageState extends State<DuckPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
