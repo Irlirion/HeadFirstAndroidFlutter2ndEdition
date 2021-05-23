@@ -5,3 +5,4 @@ Web:
 - [My Messanger](https://irlirion.github.io/HeadFirstAndroidFlutter2ndEdition/chapter03/my_messenger/build/web/)
 - [Stopwatch](https://irlirion.github.io/HeadFirstAndroidFlutter2ndEdition/chapter04/stopwatch/build/web/)
 - [Linear Example](https://irlirion.github.io/HeadFirstAndroidFlutter2ndEdition/chapter05/linear_layout_example/build/web/)
+- [Duck](https://irlirion.github.io/HeadFirstAndroidFlutter2ndEdition/chapter05/duck/build/web/)
