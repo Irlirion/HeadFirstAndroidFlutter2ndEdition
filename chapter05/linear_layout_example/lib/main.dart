@@ -20,14 +20,9 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class LayoutExamples extends StatefulWidget {
+class LayoutExamples extends StatelessWidget {
   const LayoutExamples({Key? key}) : super(key: key);
 
-  @override
-  State<LayoutExamples> createState() => _LayoutExamplesState();
-}
-
-class _LayoutExamplesState extends State<LayoutExamples> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
