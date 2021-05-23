@@ -7,3 +7,4 @@ Web:
 - [Linear Example](https://irlirion.github.io/HeadFirstAndroidFlutter2ndEdition/chapter05/linear_layout_example/build/web/)
 - [Duck](https://irlirion.github.io/HeadFirstAndroidFlutter2ndEdition/chapter05/duck/build/web/)
 - [My Constraint Layout](https://irlirion.github.io/HeadFirstAndroidFlutter2ndEdition/chapter06/my_constraint_layout/build/web/)
+- [Starbuzz](https://irlirion.github.io/HeadFirstAndroidFlutter2ndEdition/chapter07/starbuzz/build/web/)
